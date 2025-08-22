@@ -17,8 +17,12 @@ _Cursiva_
 ##Listas enumeradas
 
 1. Item1
-* Item1.2
+   * Item
+   * item 
 3. Item3
-4. Item4
+   * item
+   * item
+5. Item4
+    * Item 
  
 
