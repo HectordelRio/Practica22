@@ -20,5 +20,5 @@ _Cursiva_
 2. Item2
 3. Item3
 4. Item4
-5.  * Item4.2
+  * Item4.2
 
