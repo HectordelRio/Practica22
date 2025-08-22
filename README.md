@@ -27,6 +27,6 @@ _Cursiva_
 
 
 ##LINKS
-*https://github.com/HectordelRio/Practica22*
+(https://github.com/HectordelRio/Practica22)
  
 
