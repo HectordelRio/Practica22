@@ -17,7 +17,7 @@ _Cursiva_
 ##Listas enumeradas
 
 1. Item1
-    * Item1.2
+* Item1.2
 3. Item3
 4. Item4
  
