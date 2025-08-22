@@ -49,4 +49,9 @@ java c *.java
 - [X] Actividad 2
 - [ ] Actividad 4
 
+# Tablas
+First Name | Las Name 
+Hector | DelRio
+Beatriz | Fernandez
+
 
