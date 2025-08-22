@@ -51,6 +51,7 @@ java c *.java
 
 # Tablas
 First Name | Last Name 
+----------- |--------
 Hector | DelRio
 Beatriz | Fernandez
 
