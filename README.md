@@ -50,7 +50,7 @@ java c *.java
 - [ ] Actividad 4
 
 # Tablas
-First Name | Las Name 
+First Name | Last Name 
 Hector | DelRio
 Beatriz | Fernandez
 
