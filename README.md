@@ -37,8 +37,16 @@ _Cursiva_
 >
 > 
 
+##Fenced code blocks
 #backtick(acento grave)
 ` ` ` bash
 java c *.java
 ` ` ` 
+
+# Task list
+- [ ] Tarea 1
+- [X] Tarea 2
+- [X] Actividad 2
+- [ ] Actividad 4
+
 
